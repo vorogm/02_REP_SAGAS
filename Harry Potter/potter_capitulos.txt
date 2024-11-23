@@ -1,8 +1,8 @@
-1 - Harry Potter y la piedra filosofal
-2 - Harry Potter y la cámara secreta
-3 - Harry Potter y el prisionero de Azkaban
-4 - Harry Potter y el cáliz de fuego
-5 - Harry Potter y la Orden del Fénix
-6 - Harry Potter y el misterio del príncipe
-7 - Harry Potter y las reliquias de la Muerte: parte 1
-8 - Harry Potter y las reliquias de la Muerte: parte 2
+1 - Harry Potter y la piedra filosofal - 16 de noviembre de 2001
+2 - Harry Potter y la cámara secreta - 15 de noviembre de 2002
+3 - Harry Potter y el prisionero de Azkaban - 4 de junio de 2004
+4 - Harry Potter y el cáliz de fuego - 18 de noviembre de 2005
+5 - Harry Potter y la Orden del Fénix - 12 de julio de 2007
+6 - Harry Potter y el misterio del príncipe - 15 de julio de 2009
+7 - Harry Potter y las reliquias de la Muerte: parte 1 - 19 de noviembre de 2010
+8 - Harry Potter y las reliquias de la Muerte: parte 2 - 15 de julio de 2011
